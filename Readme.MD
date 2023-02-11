@@ -3,9 +3,9 @@ Web scraping project aimed at collecting data for further analysis
 
 ## Tools used: 
 The technologies and libraries used for the project,
--Requests
--Json 
--Pandas
+- Requests
+- Json 
+- Pandas
 
 
 ## Output format: 
