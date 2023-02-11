@@ -2,7 +2,10 @@
 Web scraping project aimed at collecting data for further analysis
 
 ## Tools used: 
-The technologies and libraries used for the project, such as Requests, Json, Pandas, etc.
+The technologies and libraries used for the project,
+-Requests
+-Json 
+-Pandas
 
 
 ## Output format: 
